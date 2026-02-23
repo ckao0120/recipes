@@ -1,3 +1,6 @@
 *.png
 pictures/
 dummylogfiles/log_*
+.Rproj.user
+recipes.Rproj
+.Rhistory
